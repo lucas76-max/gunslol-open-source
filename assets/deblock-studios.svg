@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="#ffffff">
+  <!-- Crochet gauche -->
+  <path d="M36 68 H88 V90 H58 V310 H88 V332 H36 Z"/>
+  <!-- Crochet droit -->
+  <path d="M312 68 H364 V332 H312 V310 H342 V90 H312 Z"/>
+  <!-- Lettre D -->
+  <path d="M112 102 H200 C280 102 296 150 296 200 C296 250 280 298 200 298 H112 Z
+           M162 152 V248 H196 C232 248 246 230 246 200 C246 170 232 152 196 152 Z"
+        fill-rule="evenodd"/>
+</svg>
